@@ -6,7 +6,7 @@
 var memo = {
     host: 'https://memos.152531.xyz/',
     limit: '10',
-    creatorId: '1',
+    creatorId: '101',
     domId: '#memos',
     username: 'kemiao',
     name: '克喵爱吃卤面',

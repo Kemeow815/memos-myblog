@@ -10,7 +10,7 @@ var memo = {
     domId: '#memos',
     username: 'kemiao',
     name: '克喵爱吃卤面',
-    APIVersion: 'legacy',
+    APIVersion: 'new',
     language: 'zh-CN',
     total: true,
     doubanAPI: '',

@@ -6,11 +6,11 @@
 var memo = {
     host: 'https://memos.152531.xyz/',
     limit: '10',
-    creatorId: '101',
+    creatorId: '1',
     domId: '#memos',
     username: 'kemiao',
     name: '克喵爱吃卤面',
-    APIVersion: 'new',
+    APIVersion: 'legacy',
     language: 'zh-CN',
     total: true,
     doubanAPI: '',
